@@ -1,0 +1,5 @@
+# Context
+
+ApexBridge Technologies is a fictional B2B SaaS and digital services company, used for this simulated portfolio project only. Roughly 300 employees, cloud-hosted production environment, customers across North America and Europe. It sells workflow-automation and data-integration software to mid-market and enterprise clients, which means it holds both its own employee data and its customers' business data.
+
+ApexBridge has grown fast over three years — from roughly 90 employees to just under 300 — and its vendor footprint grew with it. GRC now estimates 40–60 active third parties across the business: infrastructure providers, HR systems, marketing tools, contractors, and support platforms. The problem isn't that ApexBridge ignores vendor risk — it's that nobody has ever defined the same process for it.
